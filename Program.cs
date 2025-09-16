@@ -28,3 +28,4 @@ Console.WriteLine("warum");
 Console.WriteLine("geht");
 
 Console.WriteLine("i wü nimma");
+Console.WriteLine("wo soll i dou");

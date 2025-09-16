@@ -26,3 +26,5 @@ Console.WriteLine("?");
 Console.WriteLine("ahhh");
 Console.WriteLine("warum");
 Console.WriteLine("geht");
+
+Console.WriteLine("i wü nimma");

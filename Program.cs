@@ -8,3 +8,7 @@ int abc = 123;
 int hereAreSomeMore = 123142;
 
 Console.WriteLine("TEST2");
+
+Console.WriteLine(a);
+int abc2 = 12863;
+int hereAreSomeMore2 = 123123142;
